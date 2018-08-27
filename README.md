@@ -1,6 +1,7 @@
 # Kaggle: Data Science for Good: Kiva Crowdfunding
 
 [See Jupyter Notebook](http://nbviewer.jupyter.org/github/smakhijani/kiva-crowdfunding/blob/master/Complete%20Capstone.ipynb)
+
 [See Kaggle Competition](https://www.kaggle.com/kiva/data-science-for-good-kiva-crowdfunding)
 
 ### What is Kiva?
